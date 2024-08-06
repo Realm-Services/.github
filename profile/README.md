@@ -7,7 +7,7 @@
 <h1>Realm Services</h1>
 
 <p>
-<a href="https://discord.gg/wait"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+<a href="https://discord.com/invite/c79UaVcV"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
 </p>
 
 

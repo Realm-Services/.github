@@ -28,7 +28,7 @@ Realm Services is an organization created to providing open source services rela
 - [3kh0 Lite](https://github.com/3kh0/3kh0-lite/)
 - Moonlight v4, by Silvereen
 
-#### Old
+#### Former Projects
 - RealmUI (Frontend)
 - Realm Interface
 - KaioNetwork

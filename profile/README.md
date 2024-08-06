@@ -14,11 +14,6 @@
 ### About
 Realm Services is an organization created to providing open source services related to bypassing internet and VPN blocks. Our projects aim to provide users with ad-free experiences.  
 
-
-### Partners
-
-Titanium Network is partnered and developed primarily by [Mercury Workshop](https://github.com/MercuryWorkshop/) && the Titanium Network proxy community.
-
 ### Projects
 <details>
 <summary>List</summary>

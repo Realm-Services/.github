@@ -7,34 +7,27 @@
 <h1>Realm Services</h1>
 
 <p>
-<a href="https://discord.com/invite/c79UaVcV"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+<a href="https://discord.com/invite/NApnf2m5Rr"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
 </p>
 
 
 ### About
-Realm Services is an organization created to providing open source services related to bypassing internet and VPN blocks. Our projects aim to provide users with ad-free experiences.  
+We are an organization dedicated at providing quality services to get around internet and VPN blocks.
+- Open Source - We believe everyone deserves to have access to the code to prevent shady activities.
+- AD-Free - We believe ads ruin the clean user experience. Our projects will **NEVER** include ads.
+- Quality (not on 3kh0-x RTM) - We believe that our projects **MUST** look good to the eye.
+
+**NOTE: Affiliated projects (Not by Realm Services) may include ads.**
 
 ### Projects
-<details>
-<summary>List</summary>
+- [3kh0 X](https://github.com/kaio-lord/website-x/) - Flagship project of Realm Services - The ultimate unblocked games site on the planet.
+- [uv-3kh0](https://github.com/Realm-Services/3kh0-uv/) - Fork of Metallic. - UV Bare server for 3kh0.
+- [Segovia](https://github.com/Realm-Services/) - New project aimed to release in early 2025. 
 
-#### Active
-- [3kh0 X](https://github.com/kaio-lord/website-x/)
-- [3kh0-uv](https://github.com/Realm-Services/uv-core-3kh0/)
-- Segovia
-
-#### Affiliated (via EchoDev)
+### Affiliated Projects (via EchoDev)
 - 3kh0 v5, by Silvereen
-- [3kh0 Lite](https://github.com/3kh0/3kh0-lite/)
+- [3kh0 Lite](https://github.com/3kh0/3kh0-lite/) - Lightweight fork of 3kh0 v3.
 - Moonlight v4, by Silvereen
 
-#### Former Projects
-- RealmUI (Frontend)
-- Realm Interface
-- KaioNetwork
-- kaioOS
-- hagiaOS
-- kaio-3kh0v4
-- Interface/2
-
-</details>
+### Developers
+- [kaio-lord](https://github.com/kaio-lord/) - Owner

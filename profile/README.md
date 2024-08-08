@@ -25,7 +25,7 @@ We are an organization dedicated at providing quality services to get around int
 - [Segovia](https://github.com/Realm-Services/) - New project aimed to release in early 2025. 
 
 ### Affiliated Projects (via EchoDev)
-- 3kh0 v5, by Silvereen
+- [3kh0 v5, by Silvereen](https://github.com/Echo-Dev-Labs/3kh0v5) - 3kh0 release made with React. non static.
 - [3kh0 Lite](https://github.com/3kh0/3kh0-lite/) - Lightweight fork of 3kh0 v3.
 - Moonlight v4, by Silvereen
 

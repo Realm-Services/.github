@@ -23,13 +23,13 @@ We are an organization dedicated at providing quality services to get around int
 - [3kh0 X](https://github.com/kaio-lord/website-x/) - Flagship project of Realm Services - The ultimate unblocked games site on the planet.
 - [uv-3kh0](https://github.com/Realm-Services/uv-3kh0/) - Fork of Metallic. - UV Bare server for 3kh0.
 - [Segovia](https://github.com/Realm-Services/) - New project aimed to release in early 2025.
-- [3kh0 v5](https://github.com/Realm-Services/3kh0v5) - Fork of Silvereen's v5. - Refining 3kh0 even more. (Bug fixes for v5)
+- [3kh0 v5 static] - 3kh0 v5 ported to static.
 
 ### Affiliated Projects (via EchoDev)
 - [3kh0 v5, by Silvereen](https://github.com/Echo-Dev-Labs/3kh0v5) - 3kh0 release made by Silvereen. non static.
 - [3kh0 Lite](https://github.com/3kh0/3kh0-lite/) - Lightweight fork of 3kh0 v3.
-- Moonlight v4, by Silvereen
 
 
 ### Developers
 - [kaio-lord](https://github.com/kaio-lord/) - Owner
+  Anyone wishing to join Realm Services must contact divinelordkaio on Discord.

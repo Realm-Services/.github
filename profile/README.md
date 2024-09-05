@@ -32,4 +32,4 @@ We are an organization dedicated at providing quality services to get around int
 
 ### Developers
 - [kaio-lord](https://github.com/kaio-lord/) - Owner
-  Anyone wishing to join Realm Services must contact divinelordkaio on Discord.
+- Anyone wishing to join Realm Services must contact divinelordkaio on Discord.

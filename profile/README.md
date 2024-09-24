@@ -22,7 +22,7 @@ We are an organization dedicated at providing quality services to get around int
 ### Projects
 - [3kh0 X](https://github.com/kaio-lord/website-x/) - Flagship project of Realm Services - The ultimate unblocked games site on the planet.
 - [uv-3kh0](https://github.com/Realm-Services/uv-3kh0/) - Fork of Metallic. - UV Bare server for 3kh0.
-- [Segovia](https://github.com/Realm-Services/) - New project aimed to release in early 2025.
+- [GΛLΛXIΛ](https://github.com/Realm-Services/) - New project aimed to release in early 2025.
 - [3kh0 v5 static](https://github.com/Realm-Services/v5-static/) - 3kh0 v5 ported to static.
 
 ### Affiliated Projects (via EchoDev)
